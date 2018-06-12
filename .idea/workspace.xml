@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e493a45-cd92-4e25-8f76-c1a00800b99f" name="Default" comment="" />
+    <list default="true" id="2e493a45-cd92-4e25-8f76-c1a00800b99f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ByHand/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ByHand/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../ByHand/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +19,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ByHand" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -48,11 +53,12 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="466" />
     <option name="width" value="913" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -239,15 +245,15 @@
       <updated>1528722845137</updated>
       <workItem from="1528722850811" duration="1407000" />
       <workItem from="1528727744601" duration="1850000" />
-      <workItem from="1528762392181" duration="3807000" />
+      <workItem from="1528762392181" duration="4396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7064000" />
+    <option name="totallyTimeSpent" value="7653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -259,8 +265,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.041204438" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.041269843" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -297,18 +303,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528729381762" expanded="true" signature="939:1064" ph="insert into userinfo... " />
-            <marker date="1528729381762" expanded="true" signature="2188:2261" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="3201:3233" ph="select locat... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="4073:4127" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="4817:4866" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="5571:5613" ph="select * fro... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="7708:7758" ph="select avata... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="8508:8556" ph="select * fro... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="10927:10973" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="11709:11758" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="12524:12573" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="13307:13354" ph="select credi... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="939:1064" ph="insert into userinfo... " />
+            <marker date="1528768503772" expanded="true" signature="2188:2261" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="3201:3233" ph="select locat... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="4073:4127" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="4817:4866" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="5571:5613" ph="select * fro... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="7708:7758" ph="select avata... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="8508:8556" ph="select * fro... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="10927:10973" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="11709:11758" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="12524:12573" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="13307:13354" ph="select credi... userinfo" />
           </folding>
         </state>
       </provider>
@@ -353,18 +359,18 @@
         <state relative-caret-position="338">
           <caret line="323" column="13" lean-forward="false" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
           <folding>
-            <marker date="1528729381762" expanded="true" signature="939:1064" ph="insert into userinfo... " />
-            <marker date="1528729381762" expanded="true" signature="2188:2261" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="3201:3233" ph="select locat... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="4073:4127" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="4817:4866" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="5571:5613" ph="select * fro... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="7708:7758" ph="select avata... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="8508:8556" ph="select * fro... userinfo" />
-            <marker date="1528729381762" expanded="true" signature="10927:10973" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="11709:11758" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="12524:12573" ph="update useri... " />
-            <marker date="1528729381762" expanded="true" signature="13307:13354" ph="select credi... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="939:1064" ph="insert into userinfo... " />
+            <marker date="1528768503772" expanded="true" signature="2188:2261" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="3201:3233" ph="select locat... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="4073:4127" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="4817:4866" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="5571:5613" ph="select * fro... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="7708:7758" ph="select avata... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="8508:8556" ph="select * fro... userinfo" />
+            <marker date="1528768503772" expanded="true" signature="10927:10973" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="11709:11758" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="12524:12573" ph="update useri... " />
+            <marker date="1528768503772" expanded="true" signature="13307:13354" ph="select credi... userinfo" />
           </folding>
         </state>
       </provider>
